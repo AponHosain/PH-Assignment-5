@@ -4,6 +4,8 @@ import Secction1 from './components/Secction1';
 
 import type { Icard } from './types/CardTypes';
 
+import MainSection from './components/mainSection/mainSection';
+
 import Footer from './components/footer';
 
 
