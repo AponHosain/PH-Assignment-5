@@ -106,19 +106,19 @@ const SkillCard = ({ cards }: SkillCardProps) => {
               <button
                 onClick={() => {
                   if (isSelected) {
-                    handleRemove(card.name)
+                   
                   } else {
                     handleAddToStack(card)
                   }
                 }}
-                className={`mt-5 w-full rounded-lg py-2.5 text-sm font-medium text-white transition ${
+                className={`mt-5 w-full rounded-lg py-2.5 text-sm font-medium  ${
                   isSelected
-                    ? 'bg-red-500 hover:bg-red-600'
-                    : 'bg-[#080d1a] hover:bg-gray-800'
+                    ? 'bg-pink-100 hover:bg-pink-200 text-pink-500'
+                    : 'bg-[#080d1a] hover:bg-gray-800 text-white transition'
                 }`}
               >
                 {isSelected
-                  ? 'Remove from Stack'
+                  ? ' ✅ Added to stack'
                   : 'Add to Stack'}
               </button>
 
