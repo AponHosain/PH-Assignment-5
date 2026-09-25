@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 import Secction1 from './components/Secction1';  
 
 import type { Icard } from './types/CardTypes';
-
+import { Suspense } from 'react';
 import MainSection from './components/mainSection/mainSection';
 
 import Footer from './components/footer';
@@ -26,7 +26,10 @@ function App() {
     <Nav />
     <Secction1 />
 
-
+    
+      <Suspense fallback={<h2 className='flex items-center justify-center'>Loading</h2>}>
+        <MainSection cardPromise={cardPromise} />
+      </Suspense>
 
 
     <Footer/>

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "React",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IrTK7gpgfOctPsoKI734jjyPwt-GBIVIHZWE28S5Tg&s",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Popular"
+    
+  },
+  {
+    "name": "Vue.js",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hsKhA6NKy11wsNRsI06BFh7lR5HR6o_yEGW3r2LI1g&s=10",
+    "description": "An approachable, performant, and versatile framework for building web interfaces.",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.8,
+    "badge": "Versatile"
+  },
+  {
+    "name": "Svelte",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZgWwX1jvg72P0DudQZ0YN4z0RGhpTDbrqZWFcwYtcw&s=10",
+    "description": "Cybernetically enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Fast"
+  },
+  {
+    "name": "Next.js",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24UV5-wJhPNSF3IgnX2cGbYkiElk3Vzav3OT0Ez5dRA&s=10",
+    "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.9
+  },
+  {
+    "name": "Node.js",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIP9Np5Jpso7cSfocadT4fvkthe62zgUcD468LhJdmlg&s=10",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "category": "Backend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Standard"
+  },
+  {
+    "name": "PostgreSQL",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6hpH5bWDnnAdpaNclaF8keslORdpbkqm-R-Dpebkpw&s",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Top SQL"
+  },
+  {
+    "name": "Redis",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWAAH8o5YyTa7isggW4wrcssoBSMPXoSh-xxqVttGRg&s=10",
+    "description": "In-memory data structure store used as a high-speed database, cache, and message broker.",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Cache"
+  },
+  {
+    "name": "JavaScript",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJ3KVBMzGEhQoq8tylfrG2LNV1DQIRrswahNq08YeCA&s",
+    "description": "The versatile, ubiquitous scripting language powering dynamic behavior across the web.",
+    "category": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Ubiquitous"
+  },
+  {
+    "name": "TypeScript",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_IGPw_CG5N69C51_183kQ_rMGga1XwQJ5kfaEBPmHg&s=10",
+    "description": "A strongly typed programming language that builds on JavaScript for robust tooling.",
+    "category": "Language",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Essential"
+  },
+  {
+    "name": "Java",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1bZusTHV-9LLlyJyp8s8dYjfgvIPMs6xpTAE5jQbeQ&s",
+    "description": "A secure, object-oriented programming language designed for portability and scale.",
+    "category": "Language",
+    "level": "Intermediate",
+    "rating": 4.6,
+    "badge": "Robust"
+  },
+  {
+    "name": "Tailwind CSS",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build custom UI.",
+    "category": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Modern"
+  },
+  {
+    "name": "Docker",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7XSfu3D-CXPT91Pp4fBOMGgCa200dzmPjN6R1ZtJWzA&s=10",
+    "description": "A platform designed to build, share, and run applications reliably.",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Containers"
+  }
+]
