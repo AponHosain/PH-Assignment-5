@@ -9,6 +9,9 @@ import MainSection from './components/mainSection/mainSection';
 import Footer from './components/footer';
 
 
+import { ToastContainer } from 'react-toastify';
+
+
 
 const cardFetch = async (): Promise<Icard[]> => {
   const res = await fetch("/card.json");
@@ -33,6 +36,7 @@ function App() {
 
 
     <Footer/>
+    <ToastContainer />
    
     </>
   );
